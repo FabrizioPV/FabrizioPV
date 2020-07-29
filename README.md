@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-My name is Fabrízio Pataro Vieira from Brazil (🇧🇷). I've been working as Java Swing Developer since 2009 and currently I'm Analyst Systems at Sicoob Confederação.
-
-In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen and play to music (🎵) and eventually I like drink a beer (🍺).
-
-Would you like to find me?
-
 My name is Fabrízio Pataro Vieira from Brazil (🇧🇷). I've been working as Java Swing Developer since 2009 and currently I'm Analyst Systems at [Sicoob Confederação](https://sicoob.com.br). 
 
 <!--I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career. -->
